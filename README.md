@@ -1,22 +1,20 @@
-# Hi, I'm Titus 👋
+### Hi, I'm Titus 👋
 
-I build and ship web apps. Front to back - Next.js and TypeScript on top, Prisma and a database underneath, Docker to get it running on a real server.
+People call me **Horllydreycz**. I'm a frontend & blockchain developer based in Lagos, and the thing I love most is bringing ideas to life — taking something from "what if" all the way to "here, try it."
 
-## What I've built
+Most recently I built **[FiberPayroll](https://github.com/Horllydreycz/FiberPayroll)**, an app that pays a whole team over the Nervos CKB Fiber Network, with payments landing in about a second. I carried it from a blank folder to a live site running on its own server — and honestly, watching real payments settle for the first time was the best feeling.
 
-**[FiberPayroll](https://github.com/Horllydreycz/FiberPayroll)** - a payroll app that pays a team over the Nervos CKB Fiber Network. Payments settle in about a second over payment channels, the treasury balance is read live off a running Fiber node, and every payslip carries a QR code anyone can scan to check the payment really happened. I took it from an empty folder to a live deployment: the app, two Fiber nodes, and HTTPS, all running in Docker on a VPS.
+```js
+const titus = {
+  role: "Frontend & Blockchain Developer",
+  location: "Lagos 🇳🇬",
+  stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node", "Docker"],
+  currently: "building and shipping full-stack apps",
+  motto: "I bring ideas to life",
+};
+```
 
-Live: https://216-250-118-10.sslip.io
+🎯 Always up for collaborating on frontend or blockchain projects.
 
-That project pushed me from writing front-end code to building whole products - auth, a database, real payment integration, and working out deployment when things broke at 2am.
-
-## What I work with
-
-TypeScript · React / Next.js · Node · Prisma · Tailwind CSS · Docker · Git
-
-I started front-end on the ALX Software Engineering program and kept going until I was shipping full-stack. Still learning something new on every project.
-
-## Reach me
-
-Email: oluwadaretitus3@gmail.com
-X/Twitter: [@horllydreycz](https://twitter.com/horllydreycz)
+💬 Reach me: oluwadaretitus3@gmail.com
+🐦 [@horllydreycz](https://twitter.com/horllydreycz)
