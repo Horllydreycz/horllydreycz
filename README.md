@@ -22,10 +22,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub stats 📊
-
-![Titus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horllydreycz&show_icons=true&hide_border=true)
-
 ## Connect with me 🤝
 
 [![Twitter](https://img.shields.io/badge/-@horllydreycz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/horllydreycz)
